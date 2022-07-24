@@ -16,6 +16,12 @@ Solutions to LeetCode problems written in Java
 392. Is Subsequence
 
 
+724. Find Pivot Index
+
+
+1480. Running Sum of 1D Array
+
+
 2351. First Letter to Appear Twice
 
 
